@@ -14,28 +14,23 @@ smaller: true
 
 Financial statements are the main way in which a company communicates its performance to the market.
 
+-  Market participants use the information provided in financial statements to make financial decisions. 
+
 -  Audited statements are often required by bond and stock investors.
-
--  Financial statements are a major source of information with which to make financial decisions.  
-
-
-<div class="MIfooter"><img src="mi.png" style="height:50px;"></div> 
-
-## Statements
 
 The most important financial statements are:
 
-1.  The Balance Sheet
+**1. The Balance Sheet**
 
-2.  The Income Statement
+**2. The Income Statement**
 
-3. The Cash Flow Statement  
+**3. The Cash Flow Statement**  
 
 <div class="MIfooter"><img src="mi.png" style="height:50px;"></div> 
 
 ## The Balance Sheet
 
-The balance sheet is a snapshot of the assets a firm owns, and how they are financed (i.e. its [capital structure](https://en.wikipedia.org/wiki/Capital_structure)).  Since every asset must be claimed by either stock or bond holders, we have the identity $Assets \equiv Liabilities + Stockholders'\ Equity$. 
+The balance sheet is a snapshot of the assets a firm owns, and how they are financed (i.e. its [capital structure](https://en.wikipedia.org/wiki/Capital_structure)).  Since every asset must be claimed by either stock or bond holders, we have the expression: $Assets \equiv Liabilities + Stockholders'\ Equity$. 
 
 - Note the use of $\equiv$ meaning 'is defined as' and not $=$ which means 'is equal to'.  An equation such as $x^2 - 2 = 0$ will only hold for some ([famous in the case of this equation](https://en.wikipedia.org/wiki/Square_root_of_2)) values of $x$.  However, the balance sheet identity will always hold.
 
@@ -73,7 +68,7 @@ $3$.  Liquidity:
 
 -  First assets on the balance sheet are divided into *Current* (assets that will be turn into cash within a year) and *Fixed* assets.  Assets are ordered by liquidity within both categories also.
 
-- A firm wants to maintain an appropriate level of liquidity---to much liquidity and the firm earns a return that is low (near cash). Conversely, having too little liquidity the firm risks not being able to pay its expenses (or having to sell fixed assets for low prices to meet expenses).
+- A firm wants to maintain an appropriate level of liquidity---too much liquidity and the firm earns a return that is low (near cash). Conversely, having too little liquidity the firm risks not being able to pay its expenses (or having to sell fixed assets for low prices to meet expenses).
 
 <div class="MIfooter"><img src="mi.png" style="height:50px;"></div> 
 
@@ -91,7 +86,7 @@ The income statement measures a firm's performance over some period of time.
 
 ## The Income Statement 
 
-- Noncash Items: To match revenues with expenses noncash items are added to the income statement.  For example, the purchase of a truck will be *depreciated* which means the expense of a truck on the income statement isn't incurred when you pay for the truck, but rather the expense is realized over the truck's life (while the truck is earning revenue).
+- Non-cash Items: To match revenues with expenses, non-cash items are added to the income statement.  For example, the purchase of a truck will be *depreciated* which means the expense of a truck on the income statement isn't incurred when you pay for the truck, but rather the expense is realized over the truck's life (while the truck is earning revenue).
 
 -  Variable vs Fixed Costs:  no distinction is made on the income statement between *variable* and *fixed* costs.  
 
@@ -105,13 +100,13 @@ The cash flow statement is a combination of balance sheet and income statement.
 
 -  There are three portions to the cash flow statement: Operating, Investing, and Financing activities. 
 
--  Cash flow on the accounting statement is not equivalent with financial cash flow.  Among the causes of the disparity is the treatment of interest expense, which the accounting treats as an operating expense.  For the financial analyst, interest is purely a financing (and not operating) activity.  
+-  Cash flow on the accounting statement is not equivalent with financial cash flow.  Among the causes of the disparity is the treatment of interest expense, which for accounting purposes is treated as an operating expense.  For the financial analyst, interest is purely a financing (and not operating) activity.  
 
 <div class="MIfooter"><img src="mi.png" style="height:50px;"></div> 
 
 ## Interactive App
 
-In the following interactive app you can query the balance sheet and income statement for any stock trading on US exchanges.
+In the following interactive app, you can query the balance sheet and income statement for any stock trading on US exchanges.
 
 -  You can then search for any item using the search box.  As you type it will return all items which match your input.
 -  You can also page through the statement in order with the page number on the bottom right.
@@ -120,7 +115,7 @@ In the following interactive app you can query the balance sheet and income stat
 
 ## Interactive App
 
-For example, search for Tesla's (TSLA) financial statements.  
+For example, search for Tesla's financial statements.  
 
 - Place the cursor in the 'Stock's Name' box and hit backspace.  Type 'tesl' and you should see Tesla's common stock.  Hit 'Enter'.  
 
