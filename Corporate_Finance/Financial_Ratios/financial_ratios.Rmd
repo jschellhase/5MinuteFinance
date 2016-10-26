@@ -15,7 +15,8 @@ smaller: true
 
 Modern financial statements provide a great deal of data on companies.  Financial ratios turn that data into bits of useful information.
 
--  They often do this, by scaling a data point relative to another aspect of the company.
+-  Ratios often do this by scaling a data point relative to another aspect of the company.
+
 
 Financial ratios are generally used to:
 
@@ -28,7 +29,7 @@ Financial ratios are generally used to:
 
 Financial ratios are most informative when used to compare companies in the *same* industry.
 
-- You should never compare a bank's ratios with that of a biotech.  
+- You should probably never compare a bank's ratios with that of a biotech company.  
 
 - Know the good and bad values for a ratio.
 
@@ -56,7 +57,7 @@ These ratios measure the firm's long-term ability to meet its debt obligations. 
 - Times Interest Earned Ratio: earnings before interest and taxes (EBIT) divided by the interest payment
 - Cash Coverage Ratio: the sum of EBIT and depreciation and amortization, divided by the interest payment
 - Debt-to-Equity Ratio: total debt divided by total equity.
-- Equity Multiplier: assets divided by equity, or equivalently 1 plus the debt-to-equity ratio.  
+- Equity Multiplier: assets divided by equity, or, alternatively, the debt-to-equity ratio plus 1.  
 
 <div class="MIfooter"><img src="mi.png" style="height:50px;"></div> 
 
@@ -76,7 +77,7 @@ To see the relationship between these two ratios, remember $Assets \equiv Liabil
 
 ## Liquidity Ratios
 
-These ratios measure the firm's ability to meet its debt obligations over the short-term (over the next year).  As an analogy, you can think of these as measuring how much money you have in your wallet.  You can't sell your house to pay your water bill this week.  Examples of Liquidity Ratios are:
+Liquidity ratios measure the firm's ability to meet its debt obligations over the short-term (over the next year).  As an analogy, you can think of these as measures of how much money you have in your wallet.  You can't sell your house to pay your water bill this week.  Examples of Liquidity Ratios are:
 
 - Cash Ratio: cash divided by current liabilities.
 - Current Ratio: current assets divided by current liabilities.
@@ -86,7 +87,7 @@ These ratios measure the firm's ability to meet its debt obligations over the sh
 
 ## The Current Ratio
 
-The current ratio is widely cited.  Say a firm has current assets of \$10 million, and current liabilities of \$8 million, then its current ratio is 1.25 times.  We don't want the current ratio to be too high (say above 2) or too low (say below 1). 
+The current ratio is widely cited.  Say a firm has current assets of \$10 million, and current liabilities of \$8 million, then its current ratio is 1.25 times.  We don't want the current ratio to be too high (above 2, for instance) or too low (below 1). 
 
 - If the current ratio is too high, this is evidence that the firm has too much cash, and may not be reinvesting the cash because of new avenues for growth.  Remember cash (liquid assets) earn low returns.  
 
@@ -107,7 +108,7 @@ These measure how efficiently a firms uses its assets.  For example, how much in
 
 ## Total Asset Turnover
 
-Say a firm has \$500 million in sales, and its assets total \$2 billion.  Then it has a total asset turnover of 0.25 times.  We interpret is as, 'for every dollar in assets, the firm generates \$0.25 in sales'.  
+Say a firm has \$500 million in sales and its assets total \$2 billion.  Then it has a total asset turnover of 0.25 times.  We interpret this number as saying, 'for every dollar in assets, the firm generates \$0.25 in sales'.  
 
 - Of course, you would want to generate these sales with as few assets as possible.  So we would prefer our total asset turnover to be as high as possible. 
 
@@ -125,7 +126,7 @@ These measures focus on how well a firm translates a dollar of sales into income
 
 ## Profit Margin
 
-Say a firm has \$100 million in net income.  Alone this data point is not too useful.  However, what if we also say this income was generated on \$500 million in sales?
+Consider a firm with \$100 million in net income.  Alone this data point is not too useful.  However, what if we also say this income was generated on \$500 million in sales?
 
 - Then we can say for every \$1 in sales, the company generates \$0.20 in income.
 
@@ -156,15 +157,16 @@ A firm's P/E ratio is its stock price (per share) divided by its earnings per sh
 ## When to Use a Ratio
 
 If you are considering buying GE's stock.  Do you care about GE's current ratio?
+
 >- Not really.  The current ratio only considers short term accounts, and as an equity holder you care about the firm's long-term prospects.  
 
->- You would certainly be interested in the Return on Equity, Debt-to-Equity ratio, and Total Asset Turnover among other measures of long-term performance. 
+>- You would certainly be interested in the *Return on Equity, Debt-to-Equity ratio, and Total Asset Turnover* among other measures of long-term performance. 
 
 <div class="MIfooter"><img src="mi.png" style="height:50px;"></div> 
 
 ## Using Ratios for DuPont Analysis
 
-The Dupont Analysis uses ratios to show how firm efficiency and leverage can influence shareholder returns (ROE)
+The Dupont Analysis uses ratios to show how firm efficiency and leverage can influence shareholder returns, also known as return on equity (ROE)
 
 -  Where $ROE = Profit\ Margin\: x\: Total\ Asset\ Turnover\: x\: Equity\ Multiplier$ 
 -  $\frac{Earnings}{Equity} =  \frac{Earnings}{Sales}\: x\: \frac{Sales}{Assets}\: x\: \frac{Assets}{Equity}$
